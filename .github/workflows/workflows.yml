@@ -17,3 +17,4 @@ jobs:
 
       - name: Print input
         run: echo "The input value is ${{ inputs.some-input }}"
+        
