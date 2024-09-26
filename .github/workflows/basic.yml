@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: sample-app
+        working-directory: app
     steps:
       - uses: actions/checkout@v4
 
@@ -24,4 +24,3 @@ jobs:
 
       - name: Run tests
         run: npm test
-        

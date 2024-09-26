@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "sample-app",
   "version": "1.0.0",
   "description": "Sample Node.js app for GitHub Actions workshop",
   "main": "index.js",
